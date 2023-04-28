@@ -1,4 +1,7 @@
-# alisonsavian
-Meu primeiro portfólio!
+## Apresentação
 
-Github Page:https://alisongfx.github.io/alisonsavian/
+Minha primeira Landing Page/Portfólio estática produzida com HTML e CSS.
+
+Acesse pela URL a baixo:
+- https://alisongfx.github.io/alisonsavian/
+
